@@ -1,0 +1,18 @@
+# Ignore sensitive VPN keys and logs
+*.conf
+*.key
+*.png
+presharedkey*
+privatekey*
+publickey*
+.env
+*.log
+
+# Allow the main docker file
+!docker-compose.yml
+etc-pihole/
+etc-dns/
+npm/
+etc-pihole/
+etc-dns/
+npm/

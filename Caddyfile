@@ -1,0 +1,4 @@
+10.13.13.1 {
+    reverse_proxy localhost:80
+    tls internal
+}
