@@ -3,7 +3,7 @@
 A containerized homelab environment deployed on Google Cloud Platform, designed for secure remote access, network-wide ad-blocking, and private documentation.
 
 ## Live Demo
-**Documentation & Gallery:** [http://christopher.isageek.net](http://christopher.isageek.net)
+**Documentation & Gallery:** [http://christopher.isageek.net](https://christopher.isageek.net)
 
 ## Tech Stack
 * **Infrastructure:** Google Cloud (GCP) Compute Engine
